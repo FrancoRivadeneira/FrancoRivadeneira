@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 I’m a Mechatronics Engineer and Researcher<br>🎓 I obtained my Bachelor's degree in Mechatronics Engineering from Pontificia Universidad Católica del Perú<br>🛠️ I’m passionate about building robots to serve humanity and programming innovative solutions<br>🌱 I’m currently learning about Large Language Models (LLMs) and their applications<br>💬 Ask me about robotics, programming, or tech projects!<br>⚡ Fun fact: I love spending my free time creating robots and coding new ideas
+🤖 I’m a Mechatronics Engineer and Researcher<br>🎓 I obtained my Bachelor's degree in Mechatronics Engineering from Pontificia Universidad Católica del Perú<br>🛠️ I’m passionate about building robots to serve humanity and programming innovative solutions<br>🌱 I’m currently learning about Large Language Models (LLMs) and their applications<br>💬 Ask me about robotics, programming, or tech projects!<br>⚡ Fun fact: 
 
 
 ## 🌐 Socials:
