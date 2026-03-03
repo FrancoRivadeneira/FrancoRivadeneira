@@ -1,6 +1,10 @@
 # 💫 About Me:
-🤖 I’m a Mechatronics Engineer and Researcher<br>🎓 I obtained my Bachelor's degree in Mechatronics Engineering from Pontificia Universidad Católica del Perú<br>🛠️ I’m passionate about building robots to serve humanity and programming innovative solutions<br>🌱 I’m currently learning about Large Language Models (LLMs) and their applications<br>💬 Ask me about robotics, programming, or tech projects!<br>⚡ Fun fact: 
-
+🤖 Mechatronics Engineer and Robotics Researcher<br>
+🎓 B.Sc. in Mechatronics Engineering from Pontificia Universidad Católica del Perú (PUCP)<br>
+🔬 Currently pursuing an M.S. in Engineering at The University of Osaka, under the MEXT Scholarship<br>
+🛠️ Interested in robotics, human–robot interaction, computer vision, and intelligent systems<br>
+🌱 Currently exploring Large Language Models (LLMs) and their applications in robotics<br>
+💬 Open to discussions on robotics, programming, and research projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franco-rivadeneira) 
