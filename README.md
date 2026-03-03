@@ -6,6 +6,12 @@
 🌱 Currently exploring Large Language Models (LLMs) and their applications in robotics<br>
 💬 Open to discussions on robotics, programming, and research projects
 
+## Previous Experience
+- Inspection robotics for in-pipe and confined-space environments
+- Automation and embedded systems
+- IoT-based engineering solutions
+- Applied robotics in technical and educational contexts
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franco-rivadeneira) 
 
